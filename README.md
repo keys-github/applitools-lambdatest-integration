@@ -1,4 +1,4 @@
-# Applitools-TestMu AI-Integration — TestMu AI (Formerly LambdaTest)
+# Applitools-TestMu AI-Integration — TestMu AI (Formerly LambdaTest)
 ![LAMBDATEST Logo](http://labs.lambdatest.com/images/fills-copy.svg)
 
 
