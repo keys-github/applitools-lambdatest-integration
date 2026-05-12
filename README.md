@@ -1,4 +1,4 @@
-# Applitools-LambdaTest-Integration
+# Applitools-TestMu AI-Integration — TestMu AI (Formerly LambdaTest)
 ![LAMBDATEST Logo](http://labs.lambdatest.com/images/fills-copy.svg)
 
 
@@ -30,24 +30,35 @@
     $ mvn -Dtest=BasicDemo test
     ```
 
-You will see the test result in the [Lambdatest Dashboard](https://automation.lambdatest.com)
+You will see the test result in the [TestMu AI Dashboard](https://automation.lambdatest.com)
 
 ###  Routing traffic through your local machine
 - Set tunnel value to `True` in test capabilities
 > OS specific instructions to download and setup tunnel binary can be found at the following links.
->    - [Windows](https://www.lambdatest.com/support/docs/display/TD/Local+Testing+For+Windows)
->    - [Mac](https://www.lambdatest.com/support/docs/display/TD/Local+Testing+For+MacOS)
->    - [Linux](https://www.lambdatest.com/support/docs/display/TD/Local+Testing+For+Linux)
+>    - [Windows](https://www.testmuai.com/support/docs/display/TD/Local+Testing+For+Windows)
+>    - [Mac](https://www.testmuai.com/support/docs/display/TD/Local+Testing+For+MacOS)
+>    - [Linux](https://www.testmuai.com/support/docs/display/TD/Local+Testing+For+Linux)
 
 ### Important Note:
 ---
 - Some Safari & IE browsers, doesn't support automatic resolution of the URL string "localhost". Therefore if you test on URLs like "http://localhost/" or "http://localhost:8080" etc, you would get an error in these browsers. A possible solution is to use "localhost.lambdatest.com" or replace the string "localhost" with machine IP address. For example if you wanted to test "http://localhost/dashboard" or, and your machine IP is 192.168.2.6 you can instead test on "http://192.168.2.6/dashboard" or "http://localhost.lambdatest.com/dashboard".
 
-## About LambdaTest
 
-[LambdaTest](https://www.lambdatest.com/) is a cloud based selenium grid infrastructure that can help you run automated cross browser compatibility tests on 2000+ different browser and operating system environments. LambdaTest supports all programming languages and frameworks that are supported with Selenium, and have easy integrations with all popular CI/CD platforms. It's a perfect solution to bring your [selenium automation testing](https://www.lambdatest.com/selenium-automation) to cloud based infrastructure that not only helps you increase your test coverage over multiple desktop and mobile browsers, but also allows you to cut down your test execution time by running tests on parallel.
+## 🚀 [LambdaTest is Now TestMu AI](https://www.testmuai.com/lambdatest-is-now-testmuai/)
 
-### Resources
+👋 Welcome to TestMu AI, the next evolution of LambdaTest. As of January 2026, LambdaTest has officially rebranded to TestMu AI. We have evolved from a cross-browser testing cloud into a unified, AI-native quality engineering platform designed for the modern DevOps era.
 
-##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
-##### [Applitools Java Documentation](https://www.applitools.com/tutorials/selenium-java.html)
+Whether you have been part of the LambdaTest community for years or are just discovering TestMu AI, our mission remains the same: to help you ship faster with high-scale test execution, autonomous testing, and deep quality analytics.
+
+**🔄 Our Rebrand Journey**
+
+We chose the name TestMu AI to reflect our shift towards intelligent, autonomous testing. While our identity has changed, our core technology and commitment to the testing community stay the same.
+
+**✨ Specialties**
+
+- 🤖 AI-Native Test Execution (Formerly LambdaTest)
+- ⚡ Autonomous Test Automation
+- 🌐 Cross-Browser & Mobile Testing
+- 📊 Unified Quality Intelligence
+
+👉 Find [LambdaTest's New Home](https://www.testmuai.com/).
